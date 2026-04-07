@@ -41,15 +41,15 @@
             <div class="sommaire">
 
                 <p>Dans ce site vous trouverez differente information concernant : </p>
-                <a href="">Une brève présentation de Rome sur son rôle en italie et dans le monde</a>
-                <a href="">Un rappel historique, de sa fondationa aujourd'hui</a>
-                <a href="">Un tour d'horizon en matière d'art et culture</a>
-                <a href="">Une galerie de photographie</a>
-                <a href="">Un formaulaire pour nous contacter</a>
-                <a href="">Des liens vers des sites partenaires</a>
+                <a href="./?p=geographie">Une brève présentation de Rome sur son rôle en italie et dans le monde</a>
+                <a href="./?p=histoire">Un rappel historique, de sa fondationa aujourd'hui</a>
+                <a href="./?p=culture">Un tour d'horizon en matière d'art et culture</a>
+                <a href="./?p=galerie">Une galerie de photographie</a>
+                <a href="./?p=contact">Un formaulaire pour nous contacter</a>
+                <a href="./?p=liens">Des liens vers des sites partenaires</a>
             </div>
 
-            <a href="">Source :  Wikipedias - Ville de Rome.</a>
+            <a href="https://fr.wikipedia.org/wiki/Rome">Source :  Wikipedias - Ville de Rome.</a>
         </section>
 
         
