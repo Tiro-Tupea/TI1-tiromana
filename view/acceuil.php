@@ -6,23 +6,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
     <title>Accueil</title>
 </head>
 <body>
     <header>
-        <img src="" alt="">
+        <div class="title">
+            <h1>ROME</h1>
+        </div>
+       
     </header>
     
     <main>
         <section class="menu">
-
+            <?php
+                include ROOT_PATH. "/view/inc/menu.php"
+            ?>
         </section>
         <section class="container">
-            <div class="title">
+            <div class="container-title">
                 <h2>Bienvenue sur notre site consacré à Rome</h2>
             </div>
             
-            <img src="public/img/armoiries.png" alt="armoiries">
+            <img src="../img/armoiries.png" alt="armoiries">
 
             <p>Rome est la capitale de l'Italie. Située au centre-ouest de la péninsule italienne, près de la mer Tyrrhénienne, elle est également la capitale de la région du Latium. En 2019, elle compte 2 844 395 habitants établis sur 1 285 km2, ce qui fait d'elle la commune la plus peuplée d'Italie et la troisième plus étendue d'Europe après Moscou et Londres. Son aire urbaine recense 4 356 403 habitants en 2016. Elle présente en outre la particularité de contenir un État enclavé dans son territoire : la cité-État du Vatican (Stato della Città del Vaticano), dont le pape est le souverain. C'est le seul exemple existant d'un État à l'intérieur d'une ville.</p>
 
