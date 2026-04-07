@@ -30,7 +30,9 @@ nav {
     background-color: lightgrey;
     border: 2px solid black;
     border-radius: 10px;
-
+    position: sticky;
+    top: 0;
+    
     a {
         align-content: center;
         height: 50px;
