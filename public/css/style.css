@@ -56,6 +56,15 @@ nav {
     }
 }
 
+h2 {
+    font-style: italic;
+}
+
+h4 {
+        text-align: start;
+        margin: 0 30px;
+}
+
 
 /* CLASS */
 
@@ -85,25 +94,57 @@ nav {
 .container {
     width: 85%;
     margin: 10px 10px 20px 0;
+    padding: 20px;
     background-color: lightgrey;
     border-radius: 10px;
+    font-size: 20px;
+
+    .container-title {
+        position: relative;
+        bottom: 30px;
+        color: white;
+        height: 50px;
+        font-size: 24px;
+        font-family: Arial;
+        background-color: #A90331;
+        border-radius: 10px 10px 0 0;
+
+    }
+
 
     p {
-        margin: 20px;
+        margin: 20px 30px;
         text-align: justify;
+    }
+
+    a{
+        color: black;
+        text-decoration: none;
     }
 }
 
-.container-title {
-    position: relative;
-    bottom: 30px;
-    color: white;
-    height: 50px;
-    font-size: 24px;
-    font-family: Arial;
-    background-color: #A90331;
-    border-radius: 10px 10px 0 0;
+.sommaire {
 
+    margin: 20px 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+    p {
+        text-align: center;
+        margin: 20px auto;
+    }
+    a {
+        color: #A90331;
+        margin: 5px 0;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: black;
+    }
 }
+
+
 
 
