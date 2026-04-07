@@ -32,7 +32,7 @@ nav {
     border-radius: 10px;
     position: sticky;
     top: 0;
-    
+
     a {
         align-content: center;
         height: 50px;
@@ -75,8 +75,7 @@ ul {
     }
 }
 
-
-/* CLASS */
+/* --------------- CLASS ---------------- */
 
 
 /* H1 container */
@@ -152,6 +151,25 @@ ul {
     a:hover {
         color: black;
     }
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+
+    .a, .b, .c{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    a {
+        color: #A90331;
+        margin: 5px 0;
+        text-decoration: none;
+    }
+    
 }
 
 
