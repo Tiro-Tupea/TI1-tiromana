@@ -25,7 +25,11 @@
         </section>
         <section class="container">
             <div class="container-title">
-                <h2>Contact</h2>
+                
+                <div class="title-box">
+                    <h2>Contact</h2>
+                </div>
+                
             </div>
             
             <div class="forms">

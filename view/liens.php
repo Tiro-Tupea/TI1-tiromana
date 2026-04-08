@@ -25,9 +25,16 @@
         </section>
         <section class="container">
             <div class="container-title">
-                <h2>Liens</h2>
+                <div class="title-box">
+                    <h2>Liens</h2>
+                </div>
+                
             </div>
-            <img src="../img/liens.jpg" alt="">
+            
+            <div class="img-somm">
+                <img src="../img/liens.jpg" alt="">
+            </div>
+            
             
 
             <div class="sommaire">

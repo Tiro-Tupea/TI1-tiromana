@@ -12,7 +12,9 @@
 <body>
     <header>
         <div class="title">
-            <h1>ROME</h1>
+            <div class="title-box">
+                    <h2>ROME</h2>
+                </div>
         </div>
        
     </header>

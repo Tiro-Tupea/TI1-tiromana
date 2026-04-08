@@ -25,7 +25,10 @@
         </section>
         <section class="container">
             <div class="container-title">
-                <h2>Culture</h2>
+
+                <div class="title-box">
+                    <h2>Culture</h2>
+                </div>
             </div>
 
             <img src="../img/culture.jpg" alt="">

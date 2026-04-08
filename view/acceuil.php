@@ -25,7 +25,10 @@
         </section>
         <section class="container">
             <div class="container-title">
-                <h2>Bienvenue sur notre site consacré à Rome</h2>
+                <div class="title-box">
+                    <h2>Bienvenue sur notre site consacré à Rome</h2>
+                </div>
+                
             </div>
             
             <img src="../img/armoiries.png" alt="armoiries">
@@ -49,7 +52,7 @@
                 <a href="./?p=liens">Des liens vers des sites partenaires</a>
 
                 <!-- Pour verifier la page erreur404 -->
-                <a href="./?p=erreur404">888</a>  
+                <!-- <a href="./?p=erreur404">888</a>   -->
             </div>
 
             <a href="https://fr.wikipedia.org/wiki/Rome">Source :  Wikipedias - Ville de Rome.</a>
