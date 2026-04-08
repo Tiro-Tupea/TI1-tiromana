@@ -30,7 +30,28 @@
                 <h2>Geographie</h2>
             </div>
 
-            <img src="../img/geographie.png" alt="GEO">
+            <div class="brg-menu">
+                <h5>MENU</h5>
+                <div class="brg-btn" id="btn">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+
+            <div id="brg-menu-nav">
+                <nav id="nav-menu">
+                    <a href="./" >Accueil</a>
+                    <a href="./?p=geographie">Géographie</a>
+                    <a href="./?p=histoire">Histoire</a>
+                    <a href="./?p=culture">Culture</a>
+                    <a href="./?p=galerie">Galerie</a>
+                    <a href="./?p=contact">Contact</a>
+                    <a href="./?p=liens">Liens</a>
+                </nav>
+            </div>
+
+            <img class="main-img" src="../img/geographie.png" alt="GEO">
 
             <p>Au centre de la péninsule italienne, Rome sépare l'Italie du Nord de l'Italie du Sud. En effet, la capitale est située à 187 km au nord-ouest de Naples, à 234 km au sud-sud-est de Florence, à 372 km à l'ouest-nord-ouest de Bari, à 424 km au nord de Palerme et à 479 km au sud-est de Milan. La ville est située dans la région du Latium, à la confluence de l'Aniene et du Tibre. Le centre-ville est situé à environ 25 kilomètres de la côte de la mer Tyrrhénienne, mais l'agglomération romaine s'étend jusqu'à celle-ci par le biais du Municipio X formant l'actuel quartier d'Ostie, appelée aussi Lido di Roma (Lido signifie « littoral » en Italien). La ville est la plus étendue d'Italie, et l'une des plus vastes d'Europe, avec 1 285 km2 (soit douze fois la superficie de Paris intra muros). La petite surface du centre-ville, qui ne représente que 5 % de la commune, donne une impression erronée de sa superficie réelle.</p>
 
@@ -45,5 +66,6 @@
 
         </section>
     </main>
+    <script src="../js/script.js"></script>
 </body>
 </html>

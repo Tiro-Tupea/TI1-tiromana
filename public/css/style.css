@@ -159,7 +159,7 @@ span{
     
 }
 
-#brg-menu-nav {
+#brg-menu-nav{
     display: none;
 }
 
@@ -173,6 +173,10 @@ span{
     background-color: lightgrey;
     border-radius: 10px;
     font-size: 20px;
+
+    .main-img {
+        width: 50vw;
+    }
 
     .container-title {
         position: relative;
@@ -336,13 +340,12 @@ span{
     }
 
     .menu {
-        
+        display: none;
         width: 100%;
         flex-direction: row;
     }
 
     nav {
-        display: none;
         border: none;
     }
 

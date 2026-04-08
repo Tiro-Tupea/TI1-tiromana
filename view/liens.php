@@ -53,7 +53,7 @@
             </div>
             
             <div class="img-somm">
-                <img src="../img/liens.jpg" alt="">
+                <img class="main-img" src="../img/liens.jpg" alt="">
             </div>
             
             
@@ -96,5 +96,6 @@
 
         </section>
     </main>
+    <script src="../js/script.js"></script>
 </body>
 </html>

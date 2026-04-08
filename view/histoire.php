@@ -30,7 +30,28 @@
                 <h2>Histoire</h2>
             </div>
 
-            <img src="../img/histoire.jpg" alt="histoire">
+            <div class="brg-menu">
+                <h5>MENU</h5>
+                <div class="brg-btn" id="btn">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+
+            <div id="brg-menu-nav">
+                <nav id="nav-menu">
+                    <a href="./" >Accueil</a>
+                    <a href="./?p=geographie">Géographie</a>
+                    <a href="./?p=histoire">Histoire</a>
+                    <a href="./?p=culture">Culture</a>
+                    <a href="./?p=galerie">Galerie</a>
+                    <a href="./?p=contact">Contact</a>
+                    <a href="./?p=liens">Liens</a>
+                </nav>
+            </div>
+
+            <img class="main-img" src="../img/histoire.jpg" alt="histoire">
 
             <p>Le nom de la ville est dû selon la tradition à la légende des jumeaux Romulus et Rémus, où le premier tua le second, obtenant ainsi le droit de donner son nom à la ville qu'il construisait. Une autre hypothèse suggère que le nom de Rome viendrait du mot Rumon, nom étrusque du Tibre, qui serait ainsi devenue « La ville du fleuve »10. La date historique de la fondation de la ville est le 21 avril de l'an 753 av. J.-C. (date qui a été retenue comme celle du début du calendrier romain).</p>
 
@@ -148,5 +169,6 @@
 
         </section>
     </main>
+    <script src="../js/script.js"></script>
 </body>
 </html>
