@@ -26,7 +26,7 @@
         <section class="container">
             <div class="container-title">
                 <div class="title-box">
-                    <h2>Contact</h2>
+                    <h2>Galerie</h2>
                 </div>
             </div>
 

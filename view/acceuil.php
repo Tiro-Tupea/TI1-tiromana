@@ -30,6 +30,28 @@
                 </div>
                 
             </div>
+
+            <div class="brg-menu">
+                <h5>MENU</h5>
+                <div class="brg-btn" id="btn">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+
+            <div id="brg-menu-nav">
+                <nav id="nav-menu">
+                    <a href="./" >Accueil</a>
+                    <a href="./?p=geographie">Géographie</a>
+                    <a href="./?p=histoire">Histoire</a>
+                    <a href="./?p=culture">Culture</a>
+                    <a href="./?p=galerie">Galerie</a>
+                    <a href="./?p=contact">Contact</a>
+                    <a href="./?p=liens">Liens</a>
+                </nav>
+            </div>
+            
             
             <img src="../img/armoiries.png" alt="armoiries">
 
@@ -61,5 +83,6 @@
         
         
     </main>
+    <script src="../js/script.js"></script>
 </body>
 </html>
