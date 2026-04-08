@@ -47,6 +47,9 @@
                 <a href="./?p=galerie">Une galerie de photographie</a>
                 <a href="./?p=contact">Un formaulaire pour nous contacter</a>
                 <a href="./?p=liens">Des liens vers des sites partenaires</a>
+
+                <!-- Pour verifier la page erreur404 -->
+                <!-- <a href="./?p=erreur404">888</a> -->  
             </div>
 
             <a href="https://fr.wikipedia.org/wiki/Rome">Source :  Wikipedias - Ville de Rome.</a>

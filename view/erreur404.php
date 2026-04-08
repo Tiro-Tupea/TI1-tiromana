@@ -1,15 +1,40 @@
 <?php
 // view/contact.php
 ?>
+<?php
+// view/contact.php
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/style.css">
-    <title>Erreur</title>
+    <title>Contact</title>
 </head>
 <body>
-   <img src="../img/404.jpg" alt="">
+    <header>
+        <div class="title">
+            <h1>ROME</h1>
+        </div>
+       
+    </header>
+    
+    <main>
+        <section class="menu">
+            <?php
+                include ROOT_PATH. "/view/inc/menu.php"
+            ?>
+        </section>
+        <section class="container">
+            <div class="container-title">
+                <h2>Oops il y'a rien ici !</h2>
+            </div>
+            
+            <img src="../img/404.jpg" alt="">
+
+        </section>
+    </main>
 </body>
 </html>
+   
