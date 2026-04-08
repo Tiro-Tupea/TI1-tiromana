@@ -75,6 +75,42 @@ ul {
     }
 }
 
+form {
+        display: flex;
+        flex-direction: column;
+
+        label {
+            font-size: 20px;
+            display: inline-flex;
+            width: 200px;
+            height: 30px;
+        }
+        
+        input[type=text], input[type=email]{
+            width: 80%;
+            height: 30px;
+        }
+
+        textarea {
+            width: 80%;
+            height: 80px;
+        }
+
+        button[type=submit] {
+            margin: 40px auto;
+            font-size: 20px;
+            height: 50px;
+            width: 300px;
+            border-radius: 20px;
+        }
+
+        button[type=submit]:hover {
+            cursor: pointer;
+        }
+}
+
+
+
 /* --------------- CLASS ---------------- */
 
 
@@ -157,6 +193,7 @@ ul {
 
 
 /* PAGE LIEN */
+
 .links {
     display: flex;
     justify-content: space-around;
@@ -176,6 +213,9 @@ ul {
     
 }
 
+
+/* PAGE GALERIE */
+
 .gal {
     display: flex;
     justify-content: space-around;
@@ -190,6 +230,29 @@ ul {
         border: solid 2px black;
     }
 }
+
+/* PAGE CONTACT */
+
+.forms {
+
+    p {
+        text-align: center;
+    }
+    
+}
+
+.form-box {
+    margin: 5px;
+}
+
+.comment {
+
+    label{
+            position: relative;
+            bottom: 60px;
+        }
+}
+
 
 
 
