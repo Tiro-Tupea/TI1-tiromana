@@ -78,7 +78,7 @@ ul {
 /* --------------- CLASS ---------------- */
 
 
-/* H1 container */
+/* H1 container for all page */
 .title {
     display: flex;
     align-items: center;
@@ -90,7 +90,7 @@ ul {
     border-radius: 20px;
 }
 
-/* Nav bar menu container  */
+/* Nav bar menu container for all page  */
 
 .menu {
     width: 15%;
@@ -98,7 +98,7 @@ ul {
 } 
 
 
-/* content container  */
+/* content container for all page */
 
 .container {
     width: 85%;
@@ -131,6 +131,8 @@ ul {
     }
 }
 
+
+/* PAGE ACCEUIL  */
 .sommaire {
 
     margin: 20px 0;
@@ -153,6 +155,8 @@ ul {
     }
 }
 
+
+/* PAGE LIEN */
 .links {
     display: flex;
     justify-content: space-around;
@@ -171,6 +175,22 @@ ul {
     }
     
 }
+
+.gal {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.img-box {
+    height: 50vh;
+    width: 40vw;
+
+    img {
+        border: solid 2px black;
+    }
+}
+
 
 
 
