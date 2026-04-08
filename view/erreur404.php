@@ -22,9 +22,7 @@
     
     <main>
         <section class="menu">
-            <?php
-                include ROOT_PATH. "/view/inc/menu.php"
-            ?>
+            
         </section>
         <section class="container">
             <div class="container-title">
@@ -32,6 +30,10 @@
             </div>
             
             <img src="../img/404.jpg" alt="">
+
+            <div class="back">
+                <a href="./" class="active">Retour a l'accueil</a>
+            </div>
 
         </section>
     </main>

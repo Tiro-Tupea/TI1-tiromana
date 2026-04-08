@@ -49,7 +49,7 @@
                 <a href="./?p=liens">Des liens vers des sites partenaires</a>
 
                 <!-- Pour verifier la page erreur404 -->
-                <!-- <a href="./?p=erreur404">888</a> -->  
+                <a href="./?p=erreur404">888</a>  
             </div>
 
             <a href="https://fr.wikipedia.org/wiki/Rome">Source :  Wikipedias - Ville de Rome.</a>
