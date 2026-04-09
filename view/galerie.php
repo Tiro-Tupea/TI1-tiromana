@@ -7,6 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
+    <link href="lightbox/dist/css/lightbox.css" rel="stylesheet" />
     <title>Galerie</title>
 </head>
 <body>
@@ -56,15 +57,19 @@
                 <article class="left">
 
                     <div class="img-box">
-                        <img src="img/480px_equestrian-statue-of-marcus-aurelius.jpg" alt="">
+                        <a href="img/1280px_equestrian-statue-of-marcus-aurelius.jpg" data-lightbox="image-1" data-title="Légende Image 1" data-alt="Description">
+                            <img src="img/480px_equestrian-statue-of-marcus-aurelius.jpg" alt="">
+                        </a>
                         <div class="cap">
                             <caption>Equestrian statue of marcus aurelius</caption>
                         </div>
                         
                     </div>
 
-                    <div class="img-box"> 
-                        <img src="img/480px_Fontana_de_Trevi.jpg" alt="">
+                    <div class="img-box">
+                        <a href="img/1280px_Fontana_de_Trevi.jpg" data-lightbox="image-1" data-title="Légende Image 1" data-alt="Description">
+                            <img src="img/480px_Fontana_de_Trevi.jpg" alt="">
+                        </a>
                         <div class="cap">
                             <caption>Fontana de Trevi</caption>  
                         </div>
@@ -72,7 +77,9 @@
                     </div> 
                     
                     <div class="img-box">
-                        <img src="img/480px_Panthéon,_Rome.jpg" alt="">
+                        <a href="img/1280px_Panthéon,_Rome.jpg" data-lightbox="image-1" data-title="Légende Image 1" data-alt="Description">
+                            <img src="img/480px_Panthéon,_Rome.jpg" alt="">
+                        </a>
                         <div class="cap">
                             <caption>Panthéon</caption>
                         </div>
@@ -82,7 +89,9 @@
 
                 <article class="right">
                     <div class="img-box">
-                        <img src="img/480px_Piazza_Navona.jpg" alt="">
+                        <a href="img/1280px_Piazza_Navona.jpg" data-lightbox="image-1" data-title="Légende Image 1" data-alt="Description">
+                            <img src="img/480px_Piazza_Navona.jpg" alt="">
+                        </a>
                         <div class="cap">
                             <caption>Piazza Navona</caption>
                         </div>
@@ -90,7 +99,9 @@
                     </div>  
                     
                     <div class="img-box">
-                        <img src="img/480px_Pont_Saint-Ange_et_le_Vatican.jpg" alt="">
+                        <a href="img/1280px_Pont_Saint-Ange_et_le_Vatican.jpg" data-lightbox="image-1" data-title="Légende Image 1" data-alt="Description">
+                            <img src="img/480px_Pont_Saint-Ange_et_le_Vatican.jpg" alt="">
+                        </a>
                         <div class="cap">
                             <caption>Pont Saint-Ange et le Vatican</caption>
                         </div>
@@ -98,7 +109,9 @@
                     </div>
 
                     <div class="img-box">
-                        <img src="img/480px_Quirinale_palazzo_e_obelisco.jpg" alt="">
+                        <a href="img/1280px_Quirinale_palazzo_e_obelisco.jpg" data-lightbox="image-1" data-title="Légende Image 1" data-alt="Description">
+                            <img src="img/480px_Quirinale_palazzo_e_obelisco.jpg" alt="">
+                        </a>
                         <div class="cap">
                             <caption>Quirinale palazzo e obelisco</caption>
                         </div>
@@ -109,6 +122,7 @@
 
         </section>
     </main>
+    <script src="lightbox/dist/js/lightbox-plus-jquery.js"></script>
     <script src="js/script.js"></script>
 </body>
 </html>

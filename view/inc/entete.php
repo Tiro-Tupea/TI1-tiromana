@@ -1,6 +1,6 @@
-<? php
+<?php
 
-
+ 
 ?>
 
         <div class="title">
