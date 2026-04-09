@@ -29,17 +29,18 @@
                 <div class="title-box">
                     <h2>Contact</h2>
                 </div>
-
-                <div class="brg-menu">
+  
+            </div>
+            
+            <div class="brg-menu">
                 <h5>MENU</h5>
                 <div class="brg-btn" id="btn">
                     <span></span>
                     <span></span>
                     <span></span>
                 </div>
-            </div>
 
-            <div id="brg-menu-nav">
+            <div id="brg-menu-nav" class="brg-menu-nav">
                 <nav id="nav-menu">
                     <a href="./" >Accueil</a>
                     <a href="./?p=geographie">Géographie</a>

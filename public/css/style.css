@@ -159,7 +159,7 @@ span{
     
 }
 
-#brg-menu-nav{
+.brg-menu-nav{
     display: none;
 }
 
@@ -388,7 +388,7 @@ span{
     }
 
     .active {
-        display: flex;
+        display: block;
     }
 
 }

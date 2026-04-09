@@ -40,7 +40,7 @@
                 </div>
             </div>
 
-            <div id="brg-menu-nav">
+            <div id="brg-menu-nav" class="brg-menu-nav">
                 <nav id="nav-menu">
                     <a href="./" >Accueil</a>
                     <a href="./?p=geographie">Géographie</a>
