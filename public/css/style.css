@@ -262,13 +262,16 @@ span{
     display: flex;
     justify-content: space-around;
     align-items: baseline;
+
+    .left, .right {
+        width: 50%;
+    }
 }
 
 .img-box {
-    margin-bottom: 10px;
-    width: 40vw;
-
+    margin: 10px auto;
     img {
+        width: 30vw;
         border: solid 2px black;
     }
 }
@@ -318,14 +321,6 @@ span{
         flex-direction: row;
     }
 
-    .img-box {
-        
-        height: 28vh;
-        img {
-            width: 43vw;
-        }
-        
-    }
     
 }
 

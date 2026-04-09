@@ -12,9 +12,9 @@
 <body>
     <header>
         <div class="title">
-            <div class="title-box">
-                    <h2>Histoire</h2>
-                </div>
+            <?php
+                include ROOT_PATH. "/view/inc/entete.php"
+            ?>
         </div>
        
     </header>

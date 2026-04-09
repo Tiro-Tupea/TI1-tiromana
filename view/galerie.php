@@ -11,9 +11,9 @@
 </head>
 <body>
     <header>
-        <div class="title">
-            <h1>ROME</h1>
-        </div>
+        <?php
+                include ROOT_PATH. "/view/inc/entete.php"
+        ?>
        
     </header>
     
@@ -64,7 +64,7 @@
                     </div>
 
                     <div class="img-box"> 
-                        <img src="img/480px_Fontana_de_Trevi" alt="">
+                        <img src="img/480px_Fontana_de_Trevi.jpg" alt="">
                         <div class="cap">
                             <caption>Fontana de Trevi</caption>  
                         </div>

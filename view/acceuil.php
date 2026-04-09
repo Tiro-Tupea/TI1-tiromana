@@ -11,9 +11,9 @@
 </head>
 <body>
     <header>
-        <div class="title">
-            <h1>ROME</h1>
-        </div>
+        <?php
+                include ROOT_PATH. "/view/inc/entete.php"
+        ?>
        
     </header>
     
