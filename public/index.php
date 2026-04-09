@@ -19,7 +19,7 @@ if(!isset($_GET['p'])){
 
     // Nous sommes sur l'accueil
     // chargement de view/acceuil.php
-    include ROOT_PATH."/view/acceuil.php";
+    include ROOT_PATH."/view/accueil.php";
 
     // sinon si
 }else if (in_array($_GET['p'], ARRAY_VALID_PAGES)){
