@@ -9,7 +9,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>Contact</title>
 </head>
 <body>
@@ -29,7 +29,7 @@
                 <h2>Oops il y'a rien ici !</h2>
             </div>
             
-            <img src="../img/404.jpg" alt="">
+            <img src="img/404.jpg" alt="">
 
             <div class="back">
                 <a href="./" class="active">Retour a l'accueil</a>

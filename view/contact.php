@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>Contact</title>
 </head>
 <body>
@@ -31,7 +31,7 @@
                 </div>
   
             </div>
-            
+
             <div class="brg-menu">
                 <h5>MENU</h5>
                 <div class="brg-btn" id="btn">
@@ -55,7 +55,7 @@
             </div>
             
             <div class="forms">
-                <img class="main-img" src="../img/contacts.jpg" alt="">
+                <img class="main-img" src="img/contacts.jpg" alt="">
 
                 <p><b>Pour nous laissez un commentaire ou obtenir un renseignement complémentaire, remplissez le formulaire ci-dessous : </b></p>
 

@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>Galerie</title>
 </head>
 <body>
@@ -56,7 +56,7 @@
                 <article class="left">
 
                     <div class="img-box">
-                        <img src="../img/480px_equestrian-statue-of-marcus-aurelius.jpg" alt="">
+                        <img src="img/480px_equestrian-statue-of-marcus-aurelius.jpg" alt="">
                         <div class="cap">
                             <caption>Equestrian statue of marcus aurelius</caption>
                         </div>
@@ -64,7 +64,7 @@
                     </div>
 
                     <div class="img-box"> 
-                        <img src="../img/480px_Fontana_de_Trevi" alt="">
+                        <img src="img/480px_Fontana_de_Trevi" alt="">
                         <div class="cap">
                             <caption>Fontana de Trevi</caption>  
                         </div>
@@ -72,7 +72,7 @@
                     </div> 
                     
                     <div class="img-box">
-                        <img src="../img/480px_Panthéon,_Rome.jpg" alt="">
+                        <img src="img/480px_Panthéon,_Rome.jpg" alt="">
                         <div class="cap">
                             <caption>Panthéon</caption>
                         </div>
@@ -82,7 +82,7 @@
 
                 <article class="right">
                     <div class="img-box">
-                        <img src="../img/480px_Piazza_Navona.jpg" alt="">
+                        <img src="img/480px_Piazza_Navona.jpg" alt="">
                         <div class="cap">
                             <caption>Piazza Navona</caption>
                         </div>
@@ -90,7 +90,7 @@
                     </div>  
                     
                     <div class="img-box">
-                        <img src="../img/480px_Pont_Saint-Ange_et_le_Vatican.jpg" alt="">
+                        <img src="img/480px_Pont_Saint-Ange_et_le_Vatican.jpg" alt="">
                         <div class="cap">
                             <caption>Pont Saint-Ange et le Vatican</caption>
                         </div>
@@ -98,7 +98,7 @@
                     </div>
 
                     <div class="img-box">
-                        <img src="../img/480px_Quirinale_palazzo_e_obelisco.jpg" alt="">
+                        <img src="img/480px_Quirinale_palazzo_e_obelisco.jpg" alt="">
                         <div class="cap">
                             <caption>Quirinale palazzo e obelisco</caption>
                         </div>
