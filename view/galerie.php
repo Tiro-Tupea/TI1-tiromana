@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
     <link href="lightbox/dist/css/lightbox.css" rel="stylesheet" />
-    <title>Galerie</title>
+    <title><?= $_GET['p'] ?></title>
 </head>
 <body>
     <header>
